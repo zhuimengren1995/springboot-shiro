@@ -8,6 +8,7 @@ import org.springframework.web.servlet.ModelAndView;
 /**
  * @author amc2533064395@163.com
  * @date 2019/6/9 23:04
+ * 未授权用户的全局控制
  */
 @ControllerAdvice
 public class ExceptionController {
